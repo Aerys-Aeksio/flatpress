@@ -3,7 +3,7 @@ FlatPress Protect
 
 Description
 -----------
-Protect your blog with additional fetures in the HTTP response header
+Protect your blog with additional features in the HTTP response header
 
  * Content Security Policy is an effective measure to protect your site from XSS attacks. By whitelisting sources for approved content, you can prevent the browser from loading malicious content.
  * Permissions Policy is a new header that allows a site to control which features and APIs can be used in the browser.
